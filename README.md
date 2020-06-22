@@ -6,7 +6,7 @@ I am using [Magic Keyboard Utilities](https://magicutilities.net/magic-keyboard/
 To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the following keys:
 - **Command + Q** to quickly close the active window (Alt + F4)
 - **Options + Command + Esc** or **Command + Options + Esc** force the active window to close (taskkill /f /pid 123)
-- **Command + Space** to quickly open the Cortana search menu (Win + S)
+- **Command + Space** to quickly open the [Cortana search](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Cortona%20Search.png) menu (Win + S) - the equivalent of "Spotlight Search" from Mac
 - **Control + Command + Q** or **Command + Control + Q** lock the system (Win + L)
 - **Control + Command + F** or **Command + Control + F** full screen toggle (Win + Up / Down)
 - that's all for now
