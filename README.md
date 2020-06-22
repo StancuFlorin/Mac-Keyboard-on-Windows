@@ -9,9 +9,9 @@ To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the
 - **Command + Shift + 4** and **Command + Shift + 3** to quickly take print screens (these keys are directly mapped in [LightShot](https://app.prntscr.com) app)
 - that's all for now
 
-To start the AHK script (mac-keyboard-windows.ahk) when the operating system is starting, create a shortcut of it in ``C:\Users\myuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`` or run ``shell:startup`` (Win + R) to automaticaly open the folder.
-
 ## Settings
+
+To start the AHK script (mac-keyboard-windows.ahk) when the operating system is starting, create a shortcut of it in ``C:\Users\myuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`` or run ``shell:startup`` (Win + R) to automaticaly open the folder.
 
 ### Magic Keyboard Utilities
 In "Magic Keyboard Utilities" I only mapped the "Command" key to "Control" and the last one to "Win" key.
