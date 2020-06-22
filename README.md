@@ -4,14 +4,18 @@ How to efficiently use your Mac keyboard on Windows 10
 I am using [Magic Keyboard Utilities](https://magicutilities.net/magic-keyboard/features) but I feel the need for few other keyboard shortcuts that are not available by default.
 
 To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the following keys:
-- **Command + Q** to quickly close open windows (Alt + F4)
+- **Command + Q** to quickly close the active window (Alt + F4)
+- **Options + Command + Esc** force close the active window (taskkill /f /pid 123)
 - **Command + Space** to quickly open the Cortana search menu (Win + S)
 - **Control + Command + Q** lock the system (Win + L)
-- **Command + Shift + 4** and **Command + Shift + 3** to quickly take print screens (these keys are directly mapped in [LightShot](https://app.prntscr.com) app)
 - that's all for now
 
-MacOS Keyboard Shortcuts:
+Few other commands are mapped using some other third party apps:
+- **Command + Shift + 4** and **Command + Shift + 3** to quickly take print screens (these keys are directly mapped in [LightShot](https://app.prntscr.com) app)
+
+I also mapped in MacOS few default keys from Windows:
 - **Control + Space** change the input language (the key is mapped directly in [Mac Settings](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Change%20Language.png) -> Keyboard -> Shortcuts -> Input Sources) to match the default one from Windows (Win + Space)
+- **Control + A** show notification center (the key is mapped directly in [Mac Settings](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Show%20Notifications.png) -> Keyboard -> Shortcuts -> Mission Control) to match the default one from Windows (Win + A)
 
 ## Settings
 
