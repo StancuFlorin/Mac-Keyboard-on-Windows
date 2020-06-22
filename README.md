@@ -6,6 +6,7 @@ I am using [Magic Keyboard Utilities](https://magicutilities.net/magic-keyboard/
 To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the following keys:
 - **Command + Q** to quickly close open windows (Alt + F4)
 - **Command + Space** to quickly open the Cortana search menu (Win + S)
+- **Control + Command + Q** lock the system (Win + L)
 - **Command + Shift + 4** and **Command + Shift + 3** to quickly take print screens (these keys are directly mapped in [LightShot](https://app.prntscr.com) app)
 - that's all for now
 
