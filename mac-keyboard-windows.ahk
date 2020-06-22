@@ -14,7 +14,7 @@ Control & Q::Send !{F4}
 #if
 
 ; Cortona Search: Command + Space -> Windows Left + S
-Control & Space::Send #s
+Control & Space::Send {Control up} #s
 
 ; Lock System: Control + Command + Q -> Win + L
 #if getkeystate("LWin","P")
