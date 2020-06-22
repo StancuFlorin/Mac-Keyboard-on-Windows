@@ -20,3 +20,13 @@ Control & Space::Send #s
 #if getkeystate("LWin","P")
 	Control & Q::DllCall("LockWorkStation")
 #if
+
+; Full Screen Toggle: Control + Command + F -> Win + Up / Down
+#if getkeystate("LWin","P")
+	Control & F::
+		WinGet, STATE_VAR, MinMax, A
+		if (STATE_VAR = 1)
+			Send #{Down}
+		else if (STATE_VAR = 0)
+			Send #{Up}
+		return

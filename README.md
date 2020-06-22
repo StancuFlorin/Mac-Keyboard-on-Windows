@@ -5,9 +5,10 @@ I am using [Magic Keyboard Utilities](https://magicutilities.net/magic-keyboard/
 
 To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the following keys:
 - **Command + Q** to quickly close the active window (Alt + F4)
-- **Options + Command + Esc** force close the active window (taskkill /f /pid 123)
+- **Options + Command + Esc** or **Command + Options + Esc** force close the active window (taskkill /f /pid 123)
 - **Command + Space** to quickly open the Cortana search menu (Win + S)
-- **Control + Command + Q** lock the system (Win + L)
+- **Control + Command + Q** or **Command + Control + Q** lock the system (Win + L)
+- **Control + Command + F** or **Command + Control + F** full screen toggle (Win + Up / Down)
 - that's all for now
 
 Few other commands are mapped using some other third party apps:
