@@ -5,7 +5,11 @@ Control & Q::Send !{F4}
 #if getkeystate("Alt","P")
 	Control & Esc::
 		WinGet, PID_VAR, PID, A
-		run taskkill /f /pid %PID_VAR%,, hide
+		WinGet, NAME_VAR, ProcessName, ahk_pid %PID_VAR%
+		if (NAME_VAR = "explorer.exe")
+			MsgBox You can't force kill the explorer.exe process
+		else
+			run taskkill /f /pid %PID_VAR%,, hide
 		return
 #if
 
