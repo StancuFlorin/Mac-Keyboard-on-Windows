@@ -11,10 +11,12 @@ To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the
 
 To start the AHK script (mac-keyboard-windows.ahk) when the operating system is starting, create a shortcut of it in ``C:\Users\myuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`` or run ``shell:startup`` (Win + R) to automaticaly open the folder.
 
-### Settings
+## Settings
 
+### Magic Keyboard Utilities
 In "Magic Keyboard Utilities" I only mapped the "Command" key to "Control" and the last one to "Win" key.
 ![Magic Keyboard Utilities Settings](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Magic%20Keyboard%20Utilities.png "Magic Keyboard Utilities Settings")
 
+### LightShot
 In "LightShot" I mapped the normal keys from MacOS used to take screen shoots. 
 ![LightShot](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/LightShot.png "LightShot")
