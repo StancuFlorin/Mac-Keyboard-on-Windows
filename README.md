@@ -8,8 +8,10 @@ To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the
 - **Command + Space** to quickly open the Cortana search menu (Win + S)
 - **Control + Command + Q** lock the system (Win + L)
 - **Command + Shift + 4** and **Command + Shift + 3** to quickly take print screens (these keys are directly mapped in [LightShot](https://app.prntscr.com) app)
-- **Control + Space** change the input language (the key is mapped directly in [Mac Settings](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Change%20Language.png) -> Keyboard -> Shortcuts -> Input Sources) to match the default one from Windows (Win + Space)
 - that's all for now
+
+MacOS Keyboard Shortcuts:
+- **Control + Space** change the input language (the key is mapped directly in [Mac Settings](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Change%20Language.png) -> Keyboard -> Shortcuts -> Input Sources) to match the default one from Windows (Win + Space)
 
 ## Settings
 
