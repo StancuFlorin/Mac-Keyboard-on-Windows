@@ -18,7 +18,7 @@ Few other commands are mapped using some other third party apps:
 | ------------- | ------------- | ------------- |
 | Command + Shift + 3 | Win + Shift + S | capture your entire screen |
 | Command + Shift + 4 | Win + PrtScn | capture a screenshot with Snip & Sketch |
-| None | Alt + PrtScn | take a quick screenshot of the active window |
+| Command + Shift + 4 + Space | Alt + PrtScn | take a quick screenshot of the active window |
 * these keys are directly mapped in [LightShot](https://app.prntscr.com) app
 
 I also mapped in MacOS few default keys from Windows:
