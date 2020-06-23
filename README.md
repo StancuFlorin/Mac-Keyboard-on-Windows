@@ -4,12 +4,14 @@ How to efficiently use your Mac keyboard on Windows 10
 I am using [Magic Keyboard Utilities](https://magicutilities.net/magic-keyboard/features) but I feel the need for few other keyboard shortcuts that are not available by default.
 
 To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the following keys:
-- **Command + Q** to quickly close the active window (Alt + F4)
-- **Options + Command + Esc** or **Command + Options + Esc** force the active window to close (taskkill /f /pid 123)
-- **Command + Space** to quickly open the [Cortana search](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Cortona%20Search.png) menu (Win + S) - the equivalent of "Spotlight Search" from Mac
-- **Control + Command + Q** or **Command + Control + Q** lock the system (Win + L)
-- **Control + Command + F** or **Command + Control + F** full screen toggle (Win + Up / Down)
-- that's all for now
+
+| MacOS | Windows | Description |
+| ------------- | ------------- | ------------- |
+| Command + Q | Alt + F4 | close the active window |
+| Options + Command + Esc | taskkill /f /pid 123 | force the active window to close |
+| Command + Space | Win + S | open the [Cortana search](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Cortona%20Search.png) menu - the equivalent of "Spotlight Search" from Mac |
+| Control + Command + Q | Win + L | lock the system |
+| Control + Command + F | Win + Up / Down | full screen toggle |
 
 Few other commands are mapped using some other third party apps:
 - **Command + Shift + 4** and **Command + Shift + 3** to quickly take print screens (these keys are directly mapped in [LightShot](https://app.prntscr.com) app)
