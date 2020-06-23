@@ -22,8 +22,10 @@ Few other commands are mapped using some other third party apps:
 * these keys are directly mapped in [LightShot](https://app.prntscr.com) app
 
 I also mapped in MacOS few default keys from Windows:
-- **Control + Space** change the input language (the key is mapped directly in [Mac Settings](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Change%20Language.png) -> Keyboard -> Shortcuts -> Input Sources) to match the default one from Windows (Win + Space)
-- **Control + A** show notification centre (the key is mapped directly in [Mac Settings](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Show%20Notifications.png) -> Keyboard -> Shortcuts -> Mission Control) to match the default one from Windows (Win + A)
+| MacOS | Windows | Description | MacOS Settings |
+| ------------- | ------------- | ------------- | ------------- |
+| Control + Space | Win + Space | change the input language | [Input Sources](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Change%20Language.png) |
+| Control + A | Win + A | show notification centre | [Shortcuts](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Show%20Notifications.png) |
 
 ## Settings
 
