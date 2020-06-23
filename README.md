@@ -16,8 +16,8 @@ To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the
 Few other commands are mapped using some other third party apps:
 | MacOS | Windows | Description |
 | ------------- | ------------- | ------------- |
-| Command + Shift + 3 | Win + Shift + S | capture your entire screen |
-| Command + Shift + 4 | Win + PrtScn | capture a screenshot with Snip & Sketch |
+| Command + Shift + 3 | Win + PrtScn | capture your entire screen |
+| Command + Shift + 4 | Win + Shift + S | capture a screenshot with Snip & Sketch |
 | ~~Command + Shift + 4 + Space~~ | Alt + PrtScn | take a quick screenshot of the active window |
 * these keys are directly mapped in [LightShot](https://app.prntscr.com) app
 
