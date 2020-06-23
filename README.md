@@ -9,12 +9,17 @@ To solve this problem I used [AutoHotkey](https://www.autohotkey.com) to map the
 | ------------- | ------------- | ------------- |
 | Command + Q | Alt + F4 | close the active window |
 | Options + Command + Esc | taskkill /f /pid 123 | force the active window to close |
-| Command + Space | Win + S | open the [Cortana search](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Cortona%20Search.png) menu - the equivalent of "Spotlight Search" from Mac |
+| Command + Space | Win + S | open the [Cortana search](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Cortona%20Search.png) menu (Spotlight Search from MacOS) |
 | Control + Command + Q | Win + L | lock the system |
 | Control + Command + F | Win + Up / Down | full screen toggle |
 
 Few other commands are mapped using some other third party apps:
-- **Command + Shift + 4** and **Command + Shift + 3** to quickly take print screens (these keys are directly mapped in [LightShot](https://app.prntscr.com) app)
+| MacOS | Windows | Description |
+| ------------- | ------------- | ------------- |
+| Command + Shift + 3 | Win + Shift + S | capture your entire screen |
+| Command + Shift + 4 | Win + PrtScn | capture a screenshot with Snip & Sketch |
+| None | Alt + PrtScn | take a quick screenshot of the active window |
+* these keys are directly mapped in [LightShot](https://app.prntscr.com) app
 
 I also mapped in MacOS few default keys from Windows:
 - **Control + Space** change the input language (the key is mapped directly in [Mac Settings](https://raw.githubusercontent.com/StancuFlorin/Mac-Keyboard-on-Windows/master/pics/Change%20Language.png) -> Keyboard -> Shortcuts -> Input Sources) to match the default one from Windows (Win + Space)
